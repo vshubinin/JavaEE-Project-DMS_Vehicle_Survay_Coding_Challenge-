@@ -1,2 +1,2 @@
-# JavaEE Project for DMS Vehicle Survay Coding Challenge._
+# JavaEE Project for DMS Vehicle Survay Coding Challenge
 
